@@ -19,6 +19,6 @@ function send(method) {
       });
       break;
     default:
-    // code block
+      alert("Method not supported")
   }
 }
